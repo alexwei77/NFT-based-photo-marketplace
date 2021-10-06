@@ -74,21 +74,7 @@ $ npm run client
 http://127.0.0.1:3000
 ```
 
-&nbsp;
-
-***
-
-
-## 【Work flow】
-
-&nbsp;
-
-***
-
 ## 【References】
 - Gitcoin（The Road to Devcon5）
 https://gitcoin.co/issue/ConsenSys/Road-To-Devcon-Relay/2
 https://gitcoin.co/issue/ConsenSys/ConsenSysGrants-Challenges/5/3497
-
-- Documents
-
